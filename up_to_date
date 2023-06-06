@@ -1,1 +1,3 @@
-the command line used to create the file up_to_date is "vi up_to_date"
+git checkout main
+git pull origin main
+
